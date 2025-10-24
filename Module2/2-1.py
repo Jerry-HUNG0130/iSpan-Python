@@ -8,4 +8,5 @@ name = "Alex"
 # 輸出變數
 # print(x)
 print(name)
+print(x)
 
